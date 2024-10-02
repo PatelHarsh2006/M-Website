@@ -1,0 +1,183 @@
+
+h1,h2 {
+   color: rgb(112, 255, 99);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 50px;
+   letter-spacing: 8px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+
+img {
+   border-radius: 6%;
+}
+
+h1 {  
+   position:relative; 
+   left:330;
+}
+
+h2 {
+   position: relative; 
+   left:820;
+}
+
+h3,h4 {
+   color: rgb(112, 255, 99);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 45px;
+   letter-spacing: 5px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);}
+
+h3 { 
+   position: relative; 
+   left:280;
+}
+
+h4 {
+   position: relative; 
+   left:700;
+}
+
+h5 {
+   color: rgb(251, 255, 0);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 50px;
+   letter-spacing: 3px;
+}
+
+u {
+   color: rgb(251, 255, 0);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 50px;
+   letter-spacing: 3px;
+}
+
+
+.pizza{
+   padding-left:230;
+}
+
+.burger{
+   padding-left: 340;
+}
+
+.sandwich{
+   padding-left:240;
+}
+
+.beverages{
+   padding-left: 330;
+}
+
+.outlets{
+   border-radius:1%;
+}
+
+h6,h7,h8,h9,h10 {
+   color: rgb(255, 255, 255);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   letter-spacing: 2px;
+   padding-left: 300;
+}
+
+
+
+h11,h12,h13,h14,h15 {
+   color: rgb(0, 0, 0);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 25px;
+   letter-spacing: 2px;
+   position: relative;
+   left: 200;
+   border: 55;
+}
+
+/* MENU */
+h16,h17{
+   color: rgb(255, 255, 255);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 25px;
+   letter-spacing: 1px;
+}
+
+h16{
+   position: relative;
+   left: 20;
+   bottom:5;
+}
+
+h17{
+   position: relative;
+   left: 100;
+   bottom:5;
+}
+
+a{
+   text-decoration-line: none ;
+}
+
+/* MENU */
+h16,h17{
+   color: rgb(255, 255, 255);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 25px;
+   letter-spacing: 1px;
+}
+
+h16{
+   position: relative;
+   left: 20;
+   bottom:5;
+}
+
+h17{
+   position: relative;
+   left: 100;
+   bottom:5;
+}
+
+a{
+   text-decoration-line: none ;
+}
+
+
+/* MENU */
+
+h16,h17{
+   color: rgb(255, 255, 255);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 25px;
+   letter-spacing: 1px;
+}
+
+h16{
+   position: relative;
+   left: 20;
+   bottom:5;
+}
+
+h17{
+   position: relative;
+   left: 100;
+   bottom:5;
+}
+
+a{
+   text-decoration-line: none ;
+}
+
+.myorders{
+   position: relative;
+   left: 1130;
+   top:7
+}
+
+/* MENU */
+
+
+.ouroutlets{
+   border-radius:9% ;
+   border-color: aqua;
+   background-color: rgb(147, 115, 87);
+}
